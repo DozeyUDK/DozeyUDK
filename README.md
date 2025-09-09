@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DozeyUDK
-SQL App Admin with automation skills
+- SQL App Admin with automation skills
 
