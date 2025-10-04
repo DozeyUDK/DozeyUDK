@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @DozeyUDK
 - 💻 SQL Application Administrator with automation skills (Python, Docker, Git)
-- 🤖 Interested in DevOps, Home Assistant, and small Python projects
-- 🛠️ Currently maintaining GitHub repos for utilities like HomeAssiPy
+- 🤖 Interested in DevOps, Home Assistant, and Python projects
 - 📫 How to reach me: dozeynwct@hotmail.com
