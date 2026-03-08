@@ -1,6 +1,6 @@
 👋 Hi, I’m DozeyUDK
 
-💻 SQL Application Administrator | Automation & Scripting (Python, PowerShell, Docker, Git)
+💻 SQL Platform Administrator | Automation & Scripting (Python, PowerShell, Docker, Git, Java)
 🤖 DevOps & Home Assistant Enthusiast | Home Automation, Monitoring, Embedded Systems
 🎮 Gamedev Hobbyist | Unreal Engine 1 & exploring Unreal Engine 5
 🌌 Tech & Science Lover | Astronomy, new tech, and tinkering with innovative solutions
