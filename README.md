@@ -17,8 +17,6 @@ Other Interests: Game development (Unreal Engine), system auditing, hardware tin
 
 🔭 Current Projects
 
-Developing paranoid system audit scripts in PowerShell
-
 Building Home Assistant automations for smart devices
 
 Experimenting with Unreal Engine plugins & game tools
