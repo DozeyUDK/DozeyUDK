@@ -1,33 +1,37 @@
-👋 Hi, I’m DozeyUDK
+# 👋 Hi, I’m DozeyUDK
 
-💻 SQL Platform Administrator | Automation & Scripting (Python, PowerShell, Docker, Git, Java)
+---
 
-🤖 DevOps & Home Assistant Enthusiast | Home Automation, Monitoring, Embedded Systems
+## 💻 Professional Focus
+**SQL Platform Administrator** – automation & scripting: Python, PowerShell, Docker, Git, Java  
+**DevOps & Home Automation Enthusiast** – Home Assistant, monitoring, smart device integrations
 
-🎮 Gamedev Hobbyist | Unreal Engine 1 & exploring Unreal Engine 5
+---
 
-🌌 Tech & Science Lover | Astronomy, new tech, and tinkering with innovative solutions
+## 🎮 Gamedev & Tech
+- Hobby: Game development with **Unreal Engine 1**, exploring **Unreal Engine 5**  
+- Interests: Astronomy, new tech, tinkering with innovative solutions
 
-🛠️ Skills & Tools
+---
 
-Languages: Python, SQL, Bash, PowerShell, C/C++ (learning embedded)
+## 🛠️ Skills & Tools
 
-DevOps / Automation: Docker, Git, CI/CD pipelines, monitoring
+**Languages:** Python, SQL, Bash, PowerShell, C/C++ (learning low-level/IoT)  
+**DevOps / Automation:** Docker, Git, CI/CD pipelines, monitoring  
+**Home Automation / IoT:** Home Assistant, Zigbee, smart devices  
+**Other Tools:** Unreal Engine, system auditing, hardware tinkering
 
-Home Automation: Home Assistant, Zigbee, IoT device integration
+---
 
-Other Interests: Game development (Unreal Engine), system auditing, hardware tinkering
+## 🔭 Current Projects
 
-🔭 Current Projects
+- Building **Home Assistant automations** for smart devices  
+- Developing **Unreal Engine plugins & tools**  
+- Exploring **low-level C/C++** for IoT applications  
 
-Building Home Assistant automations for smart devices
+---
 
-Experimenting with Unreal Engine plugins & game tools
+## 📫 Connect
 
-Learning embedded C/C++ for IoT & low-level applications
-
-📫 Connect
-
-GitHub: @DozeyUDK
-
-Open for collaboration on Python, DevOps, and Home Automation projects
+- **GitHub:** [@DozeyUDK](https://github.com/DozeyUDK)  
+- Open for collaboration on **Python, DevOps, and Home Automation projects**
