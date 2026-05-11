@@ -3,8 +3,8 @@
 ---
 
 ##  Professional Focus
-**SQL Platform Administrator** – automation & scripting: Python, PowerShell, Docker, Git, Java  
-**DevOps & Home Automation Enthusiast** – Home Assistant, monitoring, smart device integrations
+**SQL Platform Administrator** - automation & scripting: Python, PowerShell, Docker, Git, Java  
+**DevOps & Home Automation Enthusiast** - Home Assistant, monitoring, smart device integrations
 
 ---
 
@@ -26,7 +26,7 @@
 ##  Current Projects
 
 - Building **Home Assistant automations** for smart devices  
-- Developing **Unreal Engine plugins & tools**  
+- Making tools in Python and Java for DBA and Devops roles
 - Exploring **low-level C/C++** for IoT applications  
 
 ---
